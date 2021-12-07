@@ -5,6 +5,7 @@ public class Challenge {
         System.out.println(message + ", world!");
     }
     public static String message(){
-        return "Hello"
+        String message=Hello;
+        return message;
     }
 }

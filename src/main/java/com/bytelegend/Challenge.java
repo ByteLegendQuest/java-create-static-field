@@ -4,8 +4,5 @@ public class Challenge {
     public static void main(String[] args) {
         System.out.println(message + ", world!");
     }
-    public static String message(){
-        String message=Hello;
-        return message;
-    }
+    public static String message=Hello;
 }

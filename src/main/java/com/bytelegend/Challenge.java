@@ -2,7 +2,7 @@ package com.bytelegend;
 
 public class Challenge {
 
-    public String message;
+    public static String message;
 
     public static void main(String[] args) {
         message = "Hello";

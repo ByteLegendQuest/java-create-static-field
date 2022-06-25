@@ -1,9 +1,10 @@
 package com.bytelegend;
 
 public class Challenge {
-    public static void main(String[] args) {
 
-        String message = "Hello";
+    public static String message = "Hello";
+
+    public static void main(String[] args) {
 
         System.out.println(message + ", world!");
     }

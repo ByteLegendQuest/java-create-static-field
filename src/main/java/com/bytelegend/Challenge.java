@@ -5,5 +5,5 @@ public class Challenge {
         System.out.println(message + ", world!");
     }
 
-    public static String message="Hello"
+    public static String message="Hello";
 }

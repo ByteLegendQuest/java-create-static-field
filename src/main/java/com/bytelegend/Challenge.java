@@ -2,11 +2,11 @@ package com.bytelegend;
 
 public class Challenge {
     public static void main(String[] args) {
-        System.out.println(message("Hello") + ", world!");
+        System.out.println(message() + ", world!");
     }
 
 
-    public static String message(String message){
-        return message;
+    public static String message(){
+        return "Hello";
     }
 }

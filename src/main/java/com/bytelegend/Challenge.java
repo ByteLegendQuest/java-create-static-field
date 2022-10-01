@@ -2,7 +2,7 @@ package com.bytelegend;
 
 public class Challenge {
 
-    public static String massage = "Hello";
+    public static String message = "Hello";
 
     public static void main(String[] args) {
 

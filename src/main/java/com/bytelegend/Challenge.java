@@ -6,6 +6,6 @@ public class Challenge {
     }
 
     public static String message() {
-        return "Hello"
+        return "Hello";
     }
 }
